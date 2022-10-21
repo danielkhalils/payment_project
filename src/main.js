@@ -8,8 +8,8 @@ const ccLogo = document.querySelector(".cc-logo span:nth-child(2) img")
 function setCardType(type) {
   //cores dos cartões
   const colors = {
-    visa: ["#436D990", "#2D57F2"],
-    mastercard: ["#DF6F29", "#C69347"],
+    visa: ["#4D2B61", "#3C7CE5"],
+    mastercard: ["#F58049", "#F3C46A"],
     default: ["black", "grey"],
   }
 
